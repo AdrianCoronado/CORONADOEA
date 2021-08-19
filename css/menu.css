@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.cab{
+    width: 100%;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.menu{
+    text-decoration: none;
+    background-color: lightskyblue;
+    float: left;
+    width: 20%;
+    
+}
+
+.menu li{
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+}
+
+.contenedor{
+    width: 95%;
+    height: 1200px;
+    margin: 10px;
+    background-color: white;
+    
+    padding: 5px;
+}
+.contenedor section{
+    width: 78%;
+    height: auto;
+    float: right;
+    background-color: red;
+    padding: 2px;
+}
